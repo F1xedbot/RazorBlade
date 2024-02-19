@@ -37,3 +37,7 @@ Overall results on both datasets
 Within this repository, you'll discover:
 - Multiple notebooks for data processing and model building.
 - Generated plain text datasets and embedded datasets for each vulnerability, for testing and evaluation.
+
+## Demo on RazorBladev1
+
+![demo_video](https://github.com/F1xedbot/RazorBlade/blob/8c524ed3a1f90835942a9114d4d8b38f1c27a20e/RazorBladev1-Demo.mkv)
