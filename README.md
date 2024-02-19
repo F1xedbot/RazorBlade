@@ -30,4 +30,4 @@ The model has consistently achieved remarkable results in vulnerability detectio
 
 Within this repository, you'll discover:
 - Multiple notebooks for data processing and model building.
-- Generated datasets for each vulnerability, facilitating seamless testing and evaluation.
+- Generated plain text datasets and embedded datasets for each vulnerability, for testing and evaluation.
