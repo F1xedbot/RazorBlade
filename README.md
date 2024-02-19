@@ -29,6 +29,7 @@ RazorBlade has undergone rigorous testing on prominent datasets:
 The model has consistently achieved remarkable results in vulnerability detection.
 
 Overall results on both datasets
+
 ![overall results](https://github.com/F1xedbot/RazorBlade/blob/5402db0b35af1e729f8f99afb45f647b4bacd45a/huggingface-razorblade.png?raw=true)
 
 ## Repository Contents
