@@ -40,4 +40,5 @@ Within this repository, you'll discover:
 
 ## Demo on RazorBladev1
 
-![Watch the Demo](https://drive.google.com/uc?export=view&id=129RvMGbPNjYWHoo8Go2HZa4UsMkfrVBx)
+<img align="left" width="400" height="350" 
+src="https://drive.google.com/uc?export=view&id=129RvMGbPNjYWHoo8Go2HZa4UsMkfrVBx">
