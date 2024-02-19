@@ -40,4 +40,4 @@ Within this repository, you'll discover:
 
 ## Demo on RazorBladev1
 
-![Watch the Demo](https://drive.google.com/file/d/129RvMGbPNjYWHoo8Go2HZa4UsMkfrVBx/view?usp=sharing)
+![Watch the Demo](https://drive.google.com/uc?export=view&id=129RvMGbPNjYWHoo8Go2HZa4UsMkfrVBx)
