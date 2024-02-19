@@ -36,7 +36,12 @@ Overall results on both datasets
 
 Within this repository, you'll discover:
 - Multiple notebooks for data processing and model building.
-- Generated plain text datasets and embedded datasets for each vulnerability, for testing and evaluation.
+- Google Drive folder links for generated plain text datasets and vectorized datasets for each vulnerability, for testing and evaluation.
+
+## Datasets
+
+- PlainTextDatasets: [dataset_plain_text](https://drive.google.com/drive/folders/1RcoA56eKNumz03aj0Gt314P9VwwIjAWV?usp=sharing)
+- VectorizedDatasets: [dataset_vetor](https://drive.google.com/drive/folders/1VyUy1pcUrOUejJV_obk6MOeDTq-4-xH_?usp=sharing)
 
 ## Demo on RazorBladev1
 
