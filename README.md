@@ -17,6 +17,8 @@ Leveraging the semantic structure provided by Control Flow Graphs (CFG) generate
 
 4. **Graph Convolutional Network (GCN):**
    - Applies a multi-headed Graph Convolutional Network (GCN) for comprehensive training and evaluation.
+  
+![alt text](https://github.com/F1xedbot/RazorBlade/blob/main/RazorBlade_workflow.png?raw=true)
 
 ## Impressive Results
 
