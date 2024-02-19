@@ -18,7 +18,7 @@ Leveraging the semantic structure provided by Control Flow Graphs (CFG) generate
 4. **Graph Convolutional Network (GCN):**
    - Applies a multi-headed Graph Convolutional Network (GCN) for comprehensive training and evaluation.
   
-![alt text](https://github.com/F1xedbot/RazorBlade/blob/main/RazorBlade_workflow.png?raw=true)
+![workflow image](https://github.com/F1xedbot/RazorBlade/blob/main/RazorBlade_workflow.png?raw=true)
 
 ## Impressive Results
 
@@ -27,6 +27,9 @@ RazorBlade has undergone rigorous testing on prominent datasets:
 - Slither-audited-smart-contracts on Hugging Face
 
 The model has consistently achieved remarkable results in vulnerability detection.
+
+Overall results on both datasets
+![overall results](https://github.com/F1xedbot/RazorBlade/blob/5402db0b35af1e729f8f99afb45f647b4bacd45a/huggingface-razorblade.png?raw=true)
 
 ## Repository Contents
 
