@@ -40,4 +40,4 @@ Within this repository, you'll discover:
 
 ## Demo on RazorBladev1
 
-![Watch the Demo]([https://github.com/F1xedbot/RazorBlade/blob/8c524ed3a1f90835942a9114d4d8b38f1c27a20e/RazorBladev1-Demo.mkv?raw=true](https://drive.google.com/file/d/129RvMGbPNjYWHoo8Go2HZa4UsMkfrVBx/view?usp=sharing)https://drive.google.com/file/d/129RvMGbPNjYWHoo8Go2HZa4UsMkfrVBx/view?usp=sharing)
+![Watch the Demo](https://drive.google.com/file/d/129RvMGbPNjYWHoo8Go2HZa4UsMkfrVBx/view?usp=sharing)
