@@ -23,8 +23,8 @@ Leveraging the semantic structure provided by Control Flow Graphs (CFG) generate
 ## Impressive Results
 
 RazorBlade has undergone rigorous testing on prominent datasets:
-- Smartbugs dataset on GitHub
-- Slither-audited-smart-contracts on Hugging Face
+- [Smartbugs](https://github.com/smartbugs/smartbugs-curated) on GitHub
+- [Slither-audited-smart-contracts](https://huggingface.co/datasets/mwritescode/slither-audited-smart-contracts) on Hugging Face
 
 The model has consistently achieved remarkable results in vulnerability detection.
 
