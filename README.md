@@ -2,7 +2,7 @@
 
 ## Overview
 
-Leveraging the semantic structure provided by Control Flow Graphs (CFG) generated from smart contract bytecode, RazorBlade offers a robust solution for identifying vulnerabilities.
+RazorBlade offers a robust solution for identifying vulnerabilities in smart contracts by leveraging the semantic structure provided by Control Flow Graphs (CFG) generated from smart contract bytecode.
 
 ## Model Workflow
 
@@ -37,6 +37,10 @@ Overall results on both datasets
 Within this repository, you'll discover:
 - Multiple notebooks for data processing and model building.
 - Google Drive folder links for generated plain text datasets and vectorized datasets for each vulnerability, for testing and evaluation.
+- Trained model folder.
+- Testing data folder.
+- Trained Word2Vec embedding model.
+- Streamlit application for easy model testing.
 
 ## Datasets
 
